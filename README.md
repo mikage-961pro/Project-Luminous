@@ -41,11 +41,18 @@
 ## 製品情報
 
 タイトル：「THE IDOLM@STER STARLIT SEASON (アイドルマスタースターリットシーズン)」
+
+
 ジャンル：アイドルプロジェクトプロデュースゲーム
+
 発売日：2020年
+
 希望小売価格：未定
+
 CERO：審査予定
+
 プレイ人数：未定
+
 対応機種：PlayStation4/Steam
 
 ## Copyright
